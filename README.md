@@ -1,13 +1,12 @@
 # Depura el Código: Python y OpenCV
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Depura el Código: Python y OpenCV`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Diseñado para desarrolladores con experiencia en Python y un interés en el procesamiento digital de imágenes, este curso te sumerge en el mundo de la depuración de código. Aprende a identificar y corregir errores en proyectos existentes, utilizando Python y OpenCV. Este curso práctico presenta un proyecto concreto que te desafiará a resolver problemas reales, brindándote habilidades valiosas para trabajar en entornos colaborativos y proyectos heredados. Únete para perfeccionar tus habilidades en depuración de código y destacarte en el desarrollo de proyectos de procesamiento de imágenes con Python y OpenCV.
 
 ## Instrucciones
 
