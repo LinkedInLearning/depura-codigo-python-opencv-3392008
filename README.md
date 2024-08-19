@@ -38,7 +38,7 @@ Este repositorio contiene uncuaderno de Jupyter con el código del curso. Tiene 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]:https://www.linkedin.com/learning/depura-el-codigo-python-y-opencv/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQGCoPkIrmJiqQ/learning-public-crop_675_1200/0/1724073254392?e=2147483647&v=beta&t=RBLw1PUlq70NRs0ko6mUq9p3Pwnb9Ch14kIyHn2qdsU
 
 [1]: # (End of ES-Instruction ###############################################################################################)
